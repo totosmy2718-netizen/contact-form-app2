@@ -9,4 +9,4 @@ export default {
     extend: {},
   },
   plugins: [],
-}/Users/shigayumiko/Downloads/Preparedblade-ConfirmationTest-ContactForm-main/resources
+}
